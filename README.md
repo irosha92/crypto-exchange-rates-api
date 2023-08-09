@@ -1,4 +1,4 @@
-# Cake-Assignment
+# Crypto-Exchange-Rates
 
 Recommend to use Node.js v16.
 
